@@ -3,6 +3,6 @@
     "origin": "git",
     "folders": ["novum"],
     "requires": [],
-    "url": "https://github.com/onexus-gaming/novum-core",
+    "url": "https://github.com/onexus-gaming/novum-core.git"
   }
 }
