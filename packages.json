@@ -4,5 +4,23 @@
     "folders": ["novum"],
     "requires": [],
     "url": "https://github.com/onexus-gaming/novum.git"
-  }
+  },
+  "classic": {
+    "origin": "git",
+    "folders": ["classic"],
+    "requires": [],
+    "url": "https://github.com/rxi/classic.git"
+  },
+  "suit": {
+    "origin": "git",
+    "folders": ["suit"],
+    "requires": [],
+    "url": "https://github.com/vrld/SUIT.git"
+  },
+  "g3d": {
+    "origin": "git",
+    "folders": ["g3d"],
+    "requires": [],
+    "url": "https://github.com/groverburger/g3d.git"
+  },
 }
